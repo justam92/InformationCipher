@@ -1,0 +1,7 @@
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad5\SzyfrInformacji\SzyfrInformacji\bin\Debug\SzyfrInformacji.exe.config
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad5\SzyfrInformacji\SzyfrInformacji\bin\Debug\SzyfrInformacji.exe
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad5\SzyfrInformacji\SzyfrInformacji\bin\Debug\SzyfrInformacji.pdb
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad5\SzyfrInformacji\SzyfrInformacji\obj\Debug\InformationCipher.csprojResolveAssemblyReference.cache
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad5\SzyfrInformacji\SzyfrInformacji\obj\Debug\InformationCipher.csproj.CoreCompileInputs.cache
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad5\SzyfrInformacji\SzyfrInformacji\obj\Debug\SzyfrInformacji.exe
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad5\SzyfrInformacji\SzyfrInformacji\obj\Debug\SzyfrInformacji.pdb
